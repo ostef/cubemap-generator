@@ -1,5 +1,5 @@
 # Cubemap Generator
-**Equirectangular to cubemap image converter, used in https://github.com/ostef/space-sim**
+**Equirectangular to cubemap image converter**
 
 This program converts an equirectangular image to a single texture cubemap. It is multithreaded.
 
